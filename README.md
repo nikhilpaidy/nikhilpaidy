@@ -11,7 +11,6 @@ I’ve recently started my journey as a **tech content creator**—sharing what 
 Stay connected and follow my progress across platforms:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhilmindspace)
-[![YouTube](https://img.shields.io/badge/YouTube-Nikhil%20Mindspace-red?logo=youtube&logoColor=white)](https://www.youtube.com/@nikhilmindspace)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Paidy_Nikhil)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/nikhilmindspace)
 

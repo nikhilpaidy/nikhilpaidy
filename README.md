@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Nikhil Paidy
+**A passionate MERN Developer || DevOps Engineer ||**
+
+Email Me 👉 ✉️ **paidynikhil@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+-🔭 I’m currently working on: Resident360 — a smart, scalable resident-management platform.
+-🌱 I’m currently learning: How to integrate AI with full-stack development to build smarter, automated, and data-driven systems.
+-👯 I’m looking to collaborate on: AI-powered web apps, automation tools, and scalable backend architectures.
+-🤔 I’m looking for help with: Best practices in AI integration, ML model deployment, and designing intelligent automation workflows.
+-💬 Ask me about: Backend engineering, system design, automation, and tech strategy.
+-📫 How to reach me: paidynikhil@gmail.com
+-😄 Pronouns: Nikhil Sir
+-⚡ Fun fact: Tech teaches me as much as I teach it.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhilmindspace) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paidy-nikhil) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31917120) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Paidy_Nikhil) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/nikhilmindspace) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paidynikhil@gmail.com) 

@@ -24,7 +24,7 @@ Stay connected and follow my progress across platforms:
 - 🤔 **I’m looking for help with:** AI integration best practices, ML model deployment, and workflow automation.  
 - 💬 **Ask me about:** Backend engineering, system design, automation, and collaboration.  
 - 📫 **How to reach me:** **paidynikhil@gmail.com**  
-- 😄 **Pronouns:** Nikhil Sir  
+- 😄 **Pronouns:** Nikhil  
 - ⚡ **Fun fact:** I love tech—and tech loves me.  
 
 ---
